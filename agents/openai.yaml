@@ -1,0 +1,7 @@
+interface:
+  display_name: "Blender Music Score Visualization"
+  short_description: "Build synchronized score animations in Blender"
+  default_prompt: "Use $blender-music-score-visualization to turn a MIDI and score into a synchronized Blender animation and export a preview or final MP4."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.blend
+*.blend1
+*.mp4
+*.wav
+*.mid
+*.midi
+*.musicxml
+*.mxl
+frames/
+renders/
+out/
